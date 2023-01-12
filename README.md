@@ -1,0 +1,1 @@
+Examples of different options that doesn't need a NAT gateway to connect internet in AWS.

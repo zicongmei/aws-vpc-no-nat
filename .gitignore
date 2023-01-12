@@ -1,0 +1,6 @@
+.idea/
+
+.terraform/
+.terraform*
+
+vpc_ec2_nat/terraform.tfvars.json
