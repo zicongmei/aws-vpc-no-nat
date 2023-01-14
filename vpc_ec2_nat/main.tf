@@ -1,6 +1,6 @@
 
 locals {
-  name   = "test-zicong"
+  name   = "test-nat"
   region = "us-west-2"
 
   az_count        = 1
